@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         title: 'My First Activity - Namer App',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
         ),
         home: MyHomePage(),
       ),
